@@ -7,3 +7,8 @@ As I grow in the field, I’m actively expanding my knowledge in both **frontend
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,etsy)](https://skillicons.dev)
+
+## My Statistics
+[![Olukolade's GitHub statistics](https://github-readme-stats-fast.vercel.app/api?username=Olukolade238)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+[![Olukolade's GitHub statistics](https://github-readme-stats-fast.vercel.app/api/streak?username=Olukolade238)](https://github.com/pranesh-2005/github-readme-stats-fast)
