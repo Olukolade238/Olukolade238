@@ -5,3 +5,5 @@ I’m an aspiring **Software Developer** currently studying at **Manitoba Instit
 
 As I grow in the field, I’m actively expanding my knowledge in both **frontend** and **backend** development, while working on projects that strengthen my practical skills. I enjoy the challenge of learning new technologies, improving my coding techniques, and understanding how real-world applications are built.
 
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,etsy)](https://skillicons.dev)
