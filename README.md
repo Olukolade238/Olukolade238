@@ -25,11 +25,7 @@ Interested in learning more about my professional journey? Let's connect on Link
 I'm always open to discussions about software development, technical project management, technology, and collaboration opportunities.
 
 ## My Skills
-- JavaScript
-- HTML
-- CSS
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,etsy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## My Statistics
 [![Olukolade's GitHub statistics](https://github-readme-stats-fast.vercel.app/api?username=Olukolade238)](https://github.com/pranesh-2005/github-readme-stats-fast)
